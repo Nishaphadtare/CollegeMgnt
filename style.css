@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(242, 204, 244);
+}
+p{
+  text-align: center;
+}
+h3{
+  text-align: center;
+  padding: 10px;
+}
+header{
+  font-size: 24px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+
+}
+/* .college-page{
+  display: block;
+  padding: 20px;
+  margin-left: 30px;
+} */
+.box{
+  text-shadow: 300px;
+  color: brown;
+  box-shadow: inset;
+  padding-left: 200px;
+  padding-right: 200px;
+  margin-left: 200px;
+  margin-right: 100px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+img{
+  border-radius: 10px;
+}
+img:hover{
+  transform: scale(2, 2);
+  transition: 4s transform;
+  border-radius: 10px;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+h2{
+  font-family: 'Poppins', sans-serif;
+}
